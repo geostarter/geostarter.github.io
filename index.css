@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+
+  .module {
+    /* The image used */
+    background-image: url("images/back2.png");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  
+  .over {
+    position: absolute;
+    top: 0%;
+    max-width: 100%;
+    height: auto;
+    z-index: 5;
+
+  }
